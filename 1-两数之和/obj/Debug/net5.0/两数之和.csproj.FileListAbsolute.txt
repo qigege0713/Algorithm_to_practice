@@ -1,0 +1,16 @@
+E:\Project practice\C#\Algorithm_to_practice\两数之和\bin\Debug\net5.0\两数之和.exe
+E:\Project practice\C#\Algorithm_to_practice\两数之和\bin\Debug\net5.0\两数之和.deps.json
+E:\Project practice\C#\Algorithm_to_practice\两数之和\bin\Debug\net5.0\两数之和.runtimeconfig.json
+E:\Project practice\C#\Algorithm_to_practice\两数之和\bin\Debug\net5.0\两数之和.runtimeconfig.dev.json
+E:\Project practice\C#\Algorithm_to_practice\两数之和\bin\Debug\net5.0\两数之和.dll
+E:\Project practice\C#\Algorithm_to_practice\两数之和\bin\Debug\net5.0\ref\两数之和.dll
+E:\Project practice\C#\Algorithm_to_practice\两数之和\bin\Debug\net5.0\两数之和.pdb
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\两数之和.csprojAssemblyReference.cache
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\两数之和.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\两数之和.AssemblyInfoInputs.cache
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\两数之和.AssemblyInfo.cs
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\两数之和.csproj.CoreCompileInputs.cache
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\两数之和.dll
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\ref\两数之和.dll
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\两数之和.pdb
+E:\Project practice\C#\Algorithm_to_practice\两数之和\obj\Debug\net5.0\两数之和.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Project practice\C#\Algorithm_to_practice\0-demo\bin\Debug\net5.0\0-demo.exe
+E:\Project practice\C#\Algorithm_to_practice\0-demo\bin\Debug\net5.0\0-demo.deps.json
+E:\Project practice\C#\Algorithm_to_practice\0-demo\bin\Debug\net5.0\0-demo.runtimeconfig.json
+E:\Project practice\C#\Algorithm_to_practice\0-demo\bin\Debug\net5.0\0-demo.runtimeconfig.dev.json
+E:\Project practice\C#\Algorithm_to_practice\0-demo\bin\Debug\net5.0\0-demo.dll
+E:\Project practice\C#\Algorithm_to_practice\0-demo\bin\Debug\net5.0\ref\0-demo.dll
+E:\Project practice\C#\Algorithm_to_practice\0-demo\bin\Debug\net5.0\0-demo.pdb
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\0-demo.csprojAssemblyReference.cache
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\0-demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\0-demo.AssemblyInfoInputs.cache
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\0-demo.AssemblyInfo.cs
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\0-demo.csproj.CoreCompileInputs.cache
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\0-demo.dll
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\ref\0-demo.dll
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\0-demo.pdb
+E:\Project practice\C#\Algorithm_to_practice\0-demo\obj\Debug\net5.0\0-demo.genruntimeconfig.cache
