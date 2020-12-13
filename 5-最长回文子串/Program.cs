@@ -21,7 +21,7 @@ namespace _5_最长回文子串
         public string LongestPalindrome(string s)
         {
             int left,right;
-            
+            int a;
 
             return "";
         }
