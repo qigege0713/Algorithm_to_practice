@@ -14,11 +14,7 @@ namespace _0_demo
 
         }
 
-        static U Foo<T,U>(T s)
-        {
-            s+="s";
-            return ;
-        }
+        
 
     }
 }
