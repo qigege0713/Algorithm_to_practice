@@ -12,18 +12,43 @@ namespace _5_最长回文子串
         static void Main(string[] args)
         {
             var s = new Solution();
-            string str = "babad";
+            string str = "abc";
             Console.WriteLine(s.LongestPalindrome(str));
         }
     }
+
+    //算法超时
     public class Solution
     {
         public string LongestPalindrome(string s)
         {
-            int left,right;
-            int a;
-
-            return "";
+            int start = 0;
+            int len = 1;
+            for (int i = 0; i < s.Length; i++)
+            {
+                for (int j = s.Length-i; j > 1; j--)
+                {
+                    if (Judg(s.Substring(i,j))&&len<j)
+                    {
+                        len = j;
+                        start = i;
+                    }
+                }
+            }
+            return s.Substring(start,len);
+        }
+        public bool Judg(string s)
+        {
+            int left = 0, right = s.Length - 1;
+            while (left<right)
+            {
+                if(s[left] != s[right])
+                return false;
+                left++;
+                right--;
+            }
+            return true;
         }
     }
+
 }
