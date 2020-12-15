@@ -1,0 +1,16 @@
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\bin\Debug\net5.0\13-罗马数字转整数.exe
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\bin\Debug\net5.0\13-罗马数字转整数.deps.json
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\bin\Debug\net5.0\13-罗马数字转整数.runtimeconfig.json
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\bin\Debug\net5.0\13-罗马数字转整数.runtimeconfig.dev.json
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\bin\Debug\net5.0\13-罗马数字转整数.dll
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\bin\Debug\net5.0\ref\13-罗马数字转整数.dll
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\bin\Debug\net5.0\13-罗马数字转整数.pdb
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\13-罗马数字转整数.csprojAssemblyReference.cache
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\13-罗马数字转整数.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\13-罗马数字转整数.AssemblyInfoInputs.cache
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\13-罗马数字转整数.AssemblyInfo.cs
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\13-罗马数字转整数.csproj.CoreCompileInputs.cache
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\13-罗马数字转整数.dll
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\ref\13-罗马数字转整数.dll
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\13-罗马数字转整数.pdb
+E:\Project practice\C#\Algorithm_to_practice\13-罗马数字转整数\obj\Debug\net5.0\13-罗马数字转整数.genruntimeconfig.cache
