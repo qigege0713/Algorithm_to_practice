@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace _290_单词规律
 {
@@ -16,6 +18,7 @@ namespace _290_单词规律
             Console.WriteLine(s.wordPattern(pattern, str));
         }
     }
+
     class Solution
     {
         public bool wordPattern(string pattern, string s)
@@ -25,17 +28,15 @@ namespace _290_单词规律
 
             for (int i = 0; i < arr.Length - 1; i++)
             {
-                var ch = pattern[i];
-                var st = arr[i];
                 for (int j = i + 1; j < arr.Length; j++)
                 {
-                    if (ch == pattern[j])
+                    if (pattern[i] == pattern[j])
                     {
-                        if (st != arr[j]) return false;
+                        if (arr[i] != arr[j]) return false;
                     }
                     else
                     {
-                        if(st == arr[j]) return false;
+                        if(arr[i] == arr[j]) return false;
                     }
                 }
             }
