@@ -1,0 +1,16 @@
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\bin\Debug\net5.0\290-单词规律.exe
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\bin\Debug\net5.0\290-单词规律.deps.json
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\bin\Debug\net5.0\290-单词规律.runtimeconfig.json
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\bin\Debug\net5.0\290-单词规律.runtimeconfig.dev.json
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\bin\Debug\net5.0\290-单词规律.dll
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\bin\Debug\net5.0\ref\290-单词规律.dll
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\bin\Debug\net5.0\290-单词规律.pdb
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\290-单词规律.csprojAssemblyReference.cache
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\290-单词规律.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\290-单词规律.AssemblyInfoInputs.cache
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\290-单词规律.AssemblyInfo.cs
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\290-单词规律.csproj.CoreCompileInputs.cache
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\290-单词规律.dll
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\ref\290-单词规律.dll
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\290-单词规律.pdb
+E:\Project practice\C#\Algorithm_to_practice\290-单词规律\obj\Debug\net5.0\290-单词规律.genruntimeconfig.cache
