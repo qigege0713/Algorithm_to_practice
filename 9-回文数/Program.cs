@@ -24,6 +24,7 @@ namespace _9_回文数
                 x/=10;
             }
             return x == revertedNumber || x == revertedNumber/10;
+            
         }
     }
     public class OldSolution
